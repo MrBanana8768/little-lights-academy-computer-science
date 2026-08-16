@@ -1,0 +1,3 @@
+# Setup logs are per-machine diagnostics, not part of the kit.
+# Students send these to their instructor; they should never be committed.
+logs/
